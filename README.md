@@ -33,22 +33,21 @@ Design and implement a standard production‑grade architecture that:
 ---
 
 ## 📸 Screenshots & Explanations
-*Replace the placeholder links below with your uploaded image URLs — drag‑and‑drop images directly into the README editor to get the links.*
 
 ### 1. VPC & Networking Setup
 ![VPC and Subnet Configuration](images/VPC.jpeg)
 *Custom VPC created with separate public and private subnets, plus attached Internet Gateway for controlled public access.*
 
 ### 2. Web Server Deployment
-![EC2 Instance with Public IP](images/Web Server with Public IP.jpeg)
+![EC2 Instance with Public IP](images/Web-Server-with-Public-IP.jpeg)
 *EC2 instance successfully running in the public subnet with assigned public IPv4 address — fixed after initial placement in the private subnet.*
 
 ### 3. Security Configuration
-![Security Group Rules](PASTE-YOUR-IMAGE-LINK-HERE)
+![Security Group Rules](images/Security-Groups.jpeg)
 *Least‑privilege rules applied: web server open to necessary traffic; database locked down to accept connections only from the web tier.*
 
 ### 4. Live Web Access
-![Working Apache Web Page](PASTE-YOUR-IMAGE-LINK-HERE)
+![Working Apache Web Page](images/Working-Web-Page.jpeg)
 *Apache web server installed and running on Amazon Linux 2023, serving content publicly over HTTP.*
 
 ### 5. Database Connectivity
