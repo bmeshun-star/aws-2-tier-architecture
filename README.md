@@ -14,7 +14,7 @@ Design and implement a standard production‑grade architecture that:
 ---
 
 ## 🧱 Architecture Diagram
-![Diagram](images/ARCHITECTURE-DIAGRAM.drawio.png)
+![Diagram](ARCHITECTURE-DIAGRAM.drawio.png)
 
 ---
 
