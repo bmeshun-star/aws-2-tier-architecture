@@ -14,7 +14,7 @@ Design and implement a standard production‑grade architecture that:
 ---
 
 ## 🧱 Architecture Diagram
-
+![Diagram](images/ARCHITECTURE-DIAGRAM.drawio.png)
 
 ---
 
@@ -49,10 +49,6 @@ Design and implement a standard production‑grade architecture that:
 ### 4. Live Web Access
 ![Working Apache Web Page](images/Working-Web-Page.jpeg)
 *Apache web server installed and running on Amazon Linux 2023, serving content publicly over HTTP.*
-
-### 5. Database Connectivity
-![RDS Connection Verified](PASTE-YOUR-IMAGE-LINK-HERE)
-*Confirmed web server can reach the private RDS database — proving network segmentation and security rules work correctly.*
 
 ---
 
